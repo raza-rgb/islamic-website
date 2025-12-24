@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ur">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Islamic Website</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f8f6;
+      direction: rtl;
+    }
+
+    header {
+      background: linear-gradient(135deg, #0a5c36, #158a5b);
+      color: white;
+      text-align: center;
+      padding: 25px 15px;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+
+    header p {
+      margin-top: 8px;
+      font-size: 14px;
+      opacity: 0.9;
+    }
+
+    nav {
+      background: #0f6b44;
+      display: flex;
+      justify-content: space-around;
+      padding: 12px 0;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-size: 15px;
+      font-weight: bold;
+    }
+
+    section {
+      background: white;
+      margin: 15px;
+      padding: 15px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    }
+
+    section h2 {
+      color: #0a5c36;
+      margin-top: 0;
+    }
+
+    footer {
+      background: #0a5c36;
+      color: white;
+      text-align: center;
+      padding: 12px;
+      font-size: 13px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>🕌 Islamic Website</h1>
+  <p>قرآن • حدیث • نعت • اسلامی معلومات</p>
+</header>
+
+<nav>
+  <a href="#">Home</a>
+  <a href="#">Quran</a>
+  <a href="#">Hadith</a>
+  <a href="#">Naats</a>
+</nav>
+
+<section>
+  <h2>خوش آمدید</h2>
+  <p>
+    اس ویب سائٹ پر آپ کو اسلامی تعلیمات، قرآن کی آیات،
+    احادیث اور خوبصورت نعتیں ملیں گی۔
+  </p>
+</section>
+
+<section>
+  <h2>آج کی آیت</h2>
+  <p>
+    اِنَّ مَعَ الْعُسْرِ يُسْرًا  
+    <br><br>
+    بے شک ہر تنگی کے ساتھ آسانی ہے۔
+  </p>
+</section>
+
+<footer>
+  © 2025 Islamic Website | الحمدللہ
+</footer>
+
+</body>
+</html>
